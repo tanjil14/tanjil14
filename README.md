@@ -1,22 +1,77 @@
-### Hi there 👋, I'm Tanjil Ahmed (Hridoy)
-#### MERN Stack Web Developer 
-![MERN Stack Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# 👋 Hi, I'm Md Tanjil Ahmed
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. Knock me: https://www.facebook.com/tanjilahmed.hridoy.3
+### 🚀 Frontend Engineer | React | Next.js | TypeScript
 
-Skills: BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS / FIREBASE / MONGODB
+I’m a Frontend Engineer with 5+ years of experience building scalable, high-performance web applications using modern technologies like React.js and Next.js.
 
-- 🌱 I’m currently learning Js / React  
+Currently working at **Sheba Innovations**, where I develop real-world production systems including dashboards, admin panels, and data-driven applications.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanjil14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanjil-ahmed14/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tanjilahmed.hridoy.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanjil___ahmed_hridoy/)  
+## 💼 What I Do
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil14)](https://github.com/anuraghazra/github-readme-stats)
+- Build scalable applications in **EdTech and FinTech**
+- Develop **customer-facing banking portals** and internal **back-office systems**
+- Implement complex business workflows:
+  - transaction processing & tracking
+  - approval flows (limits, requests)
+  - refund management (auto & manual)
+- Work with high-scale data (**40K+ transactions/day, ৳160+ crore volume**)
+- Focus on performance, usability, and clean architecture
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanjil14&show_icons=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanjil14)  
+## 📊 Real Experience Snapshot
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanjil14)  
+- 📈 Built financial dashboards handling **40K+ transactions/day**
+- 💰 Processed **৳160+ Crore (1.6B BDT)** transaction volume in a single day view
+- ⚡ Improved UI performance for large datasets & reports
+- 🧩 Worked with complex forms, validation & dynamic UI systems
 
-![Profile views](https://gpvc.arturio.dev/tanjil14)  
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Redux
+
+**Backend (Working Knowledge)**
+- Node.js
+- Express.js
+
+**Tools & Others**
+- REST APIs
+- Git & GitHub
+- Figma (UI collaboration)
+
+---
+
+## 🔥 Current Focus
+
+- Advanced Next.js patterns
+- Performance optimization
+- Scalable frontend architecture
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/tanjil14
+- Portfolio: https://tanjilahmed.netlify.app
+- Email: tanjilahmed917@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+![Tanjil's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanjil14&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil14&layout=compact)
+
+---
+
+⭐️ Feel free to check out my repositories and projects!
